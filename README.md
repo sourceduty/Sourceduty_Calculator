@@ -49,6 +49,17 @@ This specialized money calculator is a versatile tool designed to assist users w
 The user interface is thoughtfully organized, with a dropdown menu system that categorizes tools under main headings like "Financial Calculations" and "Currency Conversions," each with its own set of submenus. This structure ensures that users can easily find and utilize the specific tools they need, whether they're calculating mortgage payments, assessing investment returns, or converting currencies. By automating complex financial calculations and providing clear, organized access to a wide array of tools, this calculator simplifies financial planning and analysis, making it accessible even to those with limited financial expertise.
 
 #
+### Basic School Calculator
+
+![School Calculator](https://github.com/user-attachments/assets/c7a37c0a-1e0d-4f43-8f28-bbbc826f320f)
+
+The School Calculator is a versatile tool designed specifically to support high school students in mastering essential mathematical concepts. It includes a wide range of templates that cover key areas such as algebra, geometry, and trigonometry. Whether students need to solve quadratic equations, calculate the slope of a line, or determine the area and volume of geometric shapes, this calculator offers an intuitive and accessible solution. By providing direct access to commonly used formulas and calculations, the School Calculator simplifies complex problems, making it easier for students to focus on understanding the underlying concepts rather than getting bogged down in manual calculations.
+
+The calculator's user interface is thoughtfully organized, featuring a dropdown menu system that categorizes tools under relevant mathematical topics. This structure allows students to quickly navigate to the specific function they need, whether it's solving a linear equation or calculating trigonometric functions like sine, cosine, or tangent. The inclusion of a large display and responsive buttons for basic arithmetic operations ensures that students can also perform quick calculations alongside more complex problem-solving tasks. This blend of simplicity and functionality makes the School Calculator an ideal companion for classroom learning, homework, and exam preparation.
+
+One of the standout features of the School Calculator is its educational focus. Each template is designed to reinforce mathematical principles, helping students to see the practical applications of what they learn in class. The ability to work through problems step by step, with immediate feedback, fosters a deeper understanding of the material. Additionally, by automating the more tedious aspects of math problems, the calculator frees up mental resources for critical thinking and problem-solving. This tool not only aids in the completion of assignments but also enhances students' overall confidence in math by making challenging topics more approachable and manageable.
+
+#
 ### Related Links
 
 [Sourceduty Notepad](https://github.com/sourceduty/Notepad)
