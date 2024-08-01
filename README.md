@@ -71,6 +71,17 @@ The user interface of the Science Calculator is thoughtfully organized, with eac
 One of the key strengths of the Science Calculator is its educational focus. Each template is designed not only to solve problems but also to reinforce the learning of scientific concepts. By allowing students to work through problems step by step and see the immediate application of formulas, the calculator fosters a deeper understanding of the material. This hands-on approach is particularly valuable in helping students grasp complex scientific ideas, as it moves beyond rote memorization and encourages active problem-solving. Overall, the Science Calculator is an essential tool for any high school student looking to strengthen their grasp of science and perform better academically.
 
 #
+### Sourceduty Calculator with Simulated Templates
+
+![Sourceduty Calculator with Simulated Templates](https://github.com/user-attachments/assets/d144abfb-fd6d-433e-949e-54620bdfa7c9)
+
+The Sourceduty Calculator is a versatile and user-friendly tool designed to handle a variety of mathematical operations with ease. Its intuitive interface allows users to perform basic arithmetic calculations such as addition, subtraction, multiplication, and division, as well as more advanced functions like square roots, exponentials, and logarithms. The calculator is equipped with a clear display for input and results, making it easy for users to see their calculations as they work. Additionally, it features a set of buttons for common operations and a menu-driven system for selecting different templates, providing a seamless user experience.
+
+One of the standout features of the Sourceduty Calculator is its ability to simulate calculations using randomly generated input values. When a user selects a template, the calculator generates example values and automatically performs the calculation, displaying both the input values and the result in a dedicated text box. This feature is particularly useful for educational purposes, as it allows users to see how different inputs affect the outcome of various mathematical functions. The text box also provides immediate feedback when a template is selected, clearly indicating the chosen operation and making the tool more interactive.
+
+The calculator's robustness is further enhanced by its error-handling capabilities and integration with the Python math module. This ensures that advanced calculations are performed accurately and efficiently, without causing disruptions due to unexpected errors. The design of the calculator emphasizes clarity and ease of use, with a black text box that contrasts with the white text for better readability. Overall, the Sourceduty Calculator is a well-rounded tool that combines basic functionality with advanced features, making it suitable for both casual users and those seeking to explore mathematical concepts in more depth.
+
+#
 ### Related Links
 
 [Sourceduty Notepad](https://github.com/sourceduty/Notepad)
