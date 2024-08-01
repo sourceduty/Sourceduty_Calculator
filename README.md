@@ -1,6 +1,6 @@
 ![Sourceduty Calculator](https://github.com/user-attachments/assets/e71e340b-d5c8-4e36-87d0-44c8028af8bf)
 
-> Custom calculator developed by Sourceduty.
+> Custom calculators developed by Sourceduty.
 
 #
 
