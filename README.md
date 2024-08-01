@@ -82,6 +82,10 @@ One of the standout features of the Sourceduty Calculator is its ability to simu
 The calculator's robustness is further enhanced by its error-handling capabilities and integration with the Python math module. This ensures that advanced calculations are performed accurately and efficiently, without causing disruptions due to unexpected errors. The design of the calculator emphasizes clarity and ease of use, with a black text box that contrasts with the white text for better readability. Overall, the Sourceduty Calculator is a well-rounded tool that combines basic functionality with advanced features, making it suitable for both casual users and those seeking to explore mathematical concepts in more depth.
 
 #
+
+> Alex: "*A calculator with simulated templates is very unique and more useful if expanded.*"
+
+#
 ### Related Links
 
 [Sourceduty Notepad](https://github.com/sourceduty/Notepad)
