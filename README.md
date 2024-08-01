@@ -73,7 +73,7 @@ One of the key strengths of the Science Calculator is its educational focus. Eac
 #
 ### Sourceduty Calculator with Simulated Templates
 
-![Sourceduty Calculator with Simulated Templates](https://github.com/user-attachments/assets/d144abfb-fd6d-433e-949e-54620bdfa7c9)
+![Sourceduty Calculator with Simulated Templates V1 1](https://github.com/user-attachments/assets/09b4660a-c5b2-48e5-9a5e-9ea90699a469)
 
 The Sourceduty Calculator is a versatile and user-friendly tool designed to handle a variety of mathematical operations with ease. Its intuitive interface allows users to perform basic arithmetic calculations such as addition, subtraction, multiplication, and division, as well as more advanced functions like square roots, exponentials, and logarithms. The calculator is equipped with a clear display for input and results, making it easy for users to see their calculations as they work. Additionally, it features a set of buttons for common operations and a menu-driven system for selecting different templates, providing a seamless user experience.
 
