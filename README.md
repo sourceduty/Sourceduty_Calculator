@@ -29,6 +29,17 @@ The user interface is designed for ease of use, with a dropdown menu that allows
 This weed calculator is particularly beneficial for those who need to perform frequent or complex calculations but may not have the time or expertise to work through the math manually. By automating these calculations, the tool reduces the potential for error and allows users to focus on other aspects of their work or projects. Moreover, the calculator's modular design means it can be easily updated with additional templates or features, making it a flexible and scalable solution for the evolving needs of the cannabis industry. Whether used by individuals or businesses, this specialized calculator is a practical and powerful resource for managing various aspects of cannabis cultivation and use.
 
 #
+### Gold Mining Calculator
+
+![Gold Mining Calculator with Templates V1 0](https://github.com/user-attachments/assets/1e2ee0c0-4373-4837-a470-a23df274d59a)
+
+This specialized gold mining calculator is a versatile tool designed specifically for professionals in the gold mining industry. It integrates a range of predefined templates that cover essential calculations such as ore grade, gold recovery rates, processing costs, and overall profitability. By offering these specialized functions, the calculator enables miners, investors, and analysts to perform complex industry-specific calculations with ease. This tool is tailored to meet the unique demands of the gold mining industry, where precision and efficiency are crucial for decision-making and operational success.
+
+The user interface is intuitively designed to simplify the process of selecting and utilizing these templates. Users can choose from a dropdown menu of gold mining-related templates, enter the required data, and instantly receive accurate results. The templates are designed to handle a variety of scenarios, from estimating the total gold produced based on ore grade and recovery rates to calculating the break-even gold price necessary to cover all operational costs. The calculator is built using Python’s Tkinter library, ensuring a responsive and user-friendly experience while also being easy to customize for additional needs or future updates.
+
+This gold mining calculator not only improves the accuracy of critical calculations but also saves valuable time by automating tasks that would otherwise require extensive manual effort. The inclusion of templates for financial metrics, such as net present value (NPV) and internal rate of return (IRR), makes it an indispensable tool for financial analysis and planning in the mining sector. By streamlining these complex calculations into a single, accessible tool, this calculator empowers users to make informed decisions that can significantly impact the profitability and efficiency of their mining operations.
+
+#
 ### Related Links
 
 [Sourceduty Notepad](https://github.com/sourceduty/Notepad)
