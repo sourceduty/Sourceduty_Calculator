@@ -40,6 +40,15 @@ The user interface is intuitively designed to simplify the process of selecting 
 This gold mining calculator not only improves the accuracy of critical calculations but also saves valuable time by automating tasks that would otherwise require extensive manual effort. The inclusion of templates for financial metrics, such as net present value (NPV) and internal rate of return (IRR), makes it an indispensable tool for financial analysis and planning in the mining sector. By streamlining these complex calculations into a single, accessible tool, this calculator empowers users to make informed decisions that can significantly impact the profitability and efficiency of their mining operations.
 
 #
+### Money Calculator
+
+![Money Calculator](https://github.com/user-attachments/assets/de0bb072-31eb-422b-96a7-3a6be2d4be55)
+
+This specialized money calculator is a versatile tool designed to assist users with a wide range of financial calculations and currency conversions. It offers a comprehensive set of templates that cover everything from basic interest calculations and loan amortization to more advanced financial metrics like bond pricing, dividend yield, and inflation-adjusted returns. The calculator also integrates real-time currency exchange rates, allowing users to perform up-to-date currency conversions, making it a valuable resource for both personal and business finance management.
+
+The user interface is thoughtfully organized, with a dropdown menu system that categorizes tools under main headings like "Financial Calculations" and "Currency Conversions," each with its own set of submenus. This structure ensures that users can easily find and utilize the specific tools they need, whether they're calculating mortgage payments, assessing investment returns, or converting currencies. By automating complex financial calculations and providing clear, organized access to a wide array of tools, this calculator simplifies financial planning and analysis, making it accessible even to those with limited financial expertise.
+
+#
 ### Related Links
 
 [Sourceduty Notepad](https://github.com/sourceduty/Notepad)
