@@ -11,6 +11,10 @@ On the right side of the interface, the program features a robust template manag
 The integration of templates into the calculator not only enhances its functionality but also extends its applicability beyond basic arithmetic. By incorporating these pre-built formulas, the program can assist with a wide range of tasks, from educational purposes to practical applications in finance, science, and engineering. The modular design of the program also means it can be easily expanded with additional templates or features, making it a versatile tool for both casual users and professionals alike. This combination of standard and advanced features in a single application provides users with a powerful, all-in-one calculation tool that is both practical and easy to use.
 
 #
+
+![Sourceduty Calculator](https://github.com/user-attachments/assets/e71e340b-d5c8-4e36-87d0-44c8028af8bf)
+
+#
 ### Related Links
 
 [Sourceduty Notepad](https://github.com/sourceduty/Notepad)
